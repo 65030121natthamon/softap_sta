@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "softap_sta",
-    "project_version":    "0445f9a",
+    "project_version":    "f8efdc6-dirty",
     "project_path":       "C:/GitHubRepos/_ENGEDU/softap_sta",
     "idf_path":           "C:/Users/Lenovo/esp/v5.2.2/esp-idf",
     "build_dir":          "C:/GitHubRepos/_ENGEDU/softap_sta/build",
